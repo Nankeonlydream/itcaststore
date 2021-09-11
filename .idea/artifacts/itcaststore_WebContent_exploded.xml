@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="itcaststore:WebContent exploded">
+    <output-path>$PROJECT_DIR$/classes/artifacts/itcaststore_WebContent_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="itcaststore/web/WebContent" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="itcaststore" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
